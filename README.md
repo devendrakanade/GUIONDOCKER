@@ -12,9 +12,11 @@ Step 1: CREAT DOCKER REPO & INSTALL DOCKER
 Step 2: CREATE DIR AND START DOCKER
 
 1] create directory : mkdir <dir_name>
+
 2] open directory : cd <dir_name>
 
 3] start docker : systemctl start docker
+
 4] status docker : systemctl status docker
 
 Step 3: CREATE DOCKERFILE
